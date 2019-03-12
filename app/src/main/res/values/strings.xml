@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Housekeeping</string>
+    <string name="name1">Name</string>
+    <string name="add_workers">ADD Workers</string>
+    <string name="add_task">ADD Task</string>
+    <string name="add_asset">ADD Asset</string>
+    <string name="allocate_task_to_workers">Allocate task to workers</string>
+    <string name="name">Name</string>
+    <string name="add_task1">ADD TASK</string>
+    <string name="name2">Name</string>
+    <string name="add_asset1">ADD ASSET</string>
+    <string name="name4">Name</string>
+    <string name="add_workers12">ADD WORKERS1</string>
+    <string name="name7">name7</string>
+    <string name="get_workers_list">get workers list</string>
+
+</resources>
